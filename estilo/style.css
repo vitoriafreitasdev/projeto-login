@@ -80,6 +80,13 @@ div.campo > label{
     display: none;
 }
 
+div.campo > i{
+    color: white;
+    font-size: 1.5em;
+    width: 40px;
+    padding: 5px;
+}
+
 form > input[type=submit] {
     display: block;
     font-size: 1em;
@@ -119,3 +126,4 @@ form > a.botao > i{
 
 form > input[type=submit]:hover {
     background-color: #2d6462;
+}
